@@ -1,0 +1,26 @@
+.User {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.util image {
+  width: 250px;
+  height: 150px;
+}
+.util button {
+  cursor: pointer;
+  width: 70%;
+  background-color: rgb(40, 228, 241);
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 8px;
+  border: none;
+}
+.nom{
+    font-size: 25px;
+    font-weight: bold;
+}

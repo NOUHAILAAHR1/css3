@@ -1,0 +1,21 @@
+.todo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:400px;
+  margin: auto;
+}
+
+table td {
+  border: 1px solid rgb(253, 252, 252);
+}
+table thead {
+  color: black;
+  font-size: 26px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+table td {
+  padding: 5px;
+  font-size: 18px;
+}

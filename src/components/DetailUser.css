@@ -1,0 +1,23 @@
+.det {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:400px;
+  margin: auto;
+}
+.det img {
+  width: 250px;
+  height: 150px;
+}
+.detail {
+  display: flex;
+}
+.detail label,
+.detail span {
+  width: 280px;
+  padding: 5px;
+}
+.detail label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+}
